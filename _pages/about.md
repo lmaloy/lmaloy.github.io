@@ -7,8 +7,6 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ![](/images/about/About_Lauren.jpg)
 
-## About Lauren Elizabeth
-
 Native to the central coast of California, Lauren Maloy is a professional hairstylist and makeup artist that prides herself on curating individualized solutions and services for her clientele. 
 
 With a gentle approach to beauty, Lauren utilizes her warm aura and decisive eye to empower and gift her clients with memorable experiences, comprehensive beauty advice and services that varies from one individual to the next.

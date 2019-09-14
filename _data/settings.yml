@@ -15,8 +15,8 @@ menu_settings:
       url: '/blog/'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+      #- title: 'Contact'
+      #url: '/contact'
 
 grid_settings:
   overlay_opacity: 0.8

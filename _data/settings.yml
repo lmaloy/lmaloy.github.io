@@ -19,7 +19,7 @@ menu_settings:
       #url: '/contact'
 
 grid_settings:
-  overlay_opacity: 0.8
+  overlay_opacity: 0.6
   grid_spacing: 20
 
 contact_settings:
@@ -60,7 +60,7 @@ color_settings:
   background_color: '#B6A19E'
   background_alt_color: '#F5F7FA'
   text_dark_color: '#2A2F36'
-  text_medium_color: '#6BBAA7'
+  text_medium_color: '#2A2F36'
   text_light_color: '#FFFFFF'
   accent_color: '#6BBAA7'
   border_color: '#d2cfd4'

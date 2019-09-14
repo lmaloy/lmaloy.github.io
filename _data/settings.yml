@@ -29,14 +29,14 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
+  facebook_url: 'https://m.facebook.com/laurenandthelashes/?ref=bookmarks'
   twitter_url: ''
   instagram_url: 'https://www.instagram.com/shedresseshair/'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
   vimeo_url: ''
-  pinterest_url: ''
+  pinterest_url: 'https://www.pinterest.com/lauren1110/'
   medium_url: ''
   quora_url: ''
   amazon_url: ''

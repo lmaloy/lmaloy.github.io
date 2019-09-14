@@ -31,7 +31,7 @@ contact_settings:
 social_settings:
   facebook_url: ''
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'https://www.instagram.com/shedresseshair/'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
@@ -54,7 +54,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/lauren-elizabeth-maloy-3ba29517a/'
 
 color_settings:
   background_color: '#ffffff'

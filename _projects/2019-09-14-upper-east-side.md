@@ -1,6 +1,6 @@
 ---
 title: 'Upper East Side'
-subtitle: 'This is upper east side'
+subtitle: ''
 date: 2019-09-14 00:00:00
 description: This page is for upper east side.
 featured_image: '/images/UES/UES_FrontPage.jpeg'

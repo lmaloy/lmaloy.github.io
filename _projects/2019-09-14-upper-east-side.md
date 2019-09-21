@@ -42,8 +42,6 @@ I do a few things down there.
 | **Eyebrow Design** <br> *$75* \| <sub><sup>35 minutes</sup></sub> |
 | **Eyebrow Cleanup** <br> *$30* \| <sub><sup>10 minutes</sup></sub> <br> <br> Trimming and tweezing stray hairs.|
 | **Eyebrow tint** <br> *$30* \| <sub><sup>15 minutes</sup></sub> |
-| **Keratin Lash Lift Enhancement and Tint** <br> *$110* \| <sub><sup>45 minutes</sup></sub> <br> <br> Lauren’s lash lift technique boosts and lifts the natural eyelashes without having to rely on false lashes or harmful adhesives. This treatment works by first coaxing each individual hair in to place. This process is the most important part and is customized to each person’s face shape and their desired result. A special pigment infusion is then applied, followed by a dark tint. The result? Fluffy, natural looking lashes that curve upwards.  The lash lift is a relaxing, safe service and the result is about as low maintenance as it gets. The effect lasts for the natural life cycle of the eyelash, which is about 8 weeks.  | 
-| **Keratin Lash Lift without Tint** <br> *$85* \| <sub><sup>30 minutes</sup></sub> |
 | **Eyelash Tint** <br> *$30* \| <sub><sup>15 minutes</sup></sub> |
 
 

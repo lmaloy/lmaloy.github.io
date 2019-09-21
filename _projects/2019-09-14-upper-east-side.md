@@ -3,10 +3,10 @@ title: 'Upper East Side'
 subtitle: 'This is upper east side'
 date: 2019-09-14 00:00:00
 description: This page is for upper east side.
-featured_image: '/images/UES/UES_FrontPage.png'
+featured_image: '/images/UES/UES_FrontPage.jpeg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/UES/UES_FrontPage.jpeg)
 
 ## JA Studios 
 

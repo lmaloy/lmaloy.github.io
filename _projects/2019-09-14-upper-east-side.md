@@ -8,83 +8,51 @@ featured_image: '/images/UES/UES_FrontPage.png'
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Demo content
+## JA Studios 
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+JA studios is a place where people do things. It has a dog
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
-
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-You can create lists:
-
-* Simple bulleted lists
-* Like this one
-* Are cool
-
-And:
-
-1. Numbered lists
-2. Like this other one
-3. Are great too
-
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
-
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
-
-You can throw in some horizontal rules too:
+There also have parties. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. It is nice. 
 
 ---
 
-### Image galleries
+### List of Services 
 
-Here's a really neat custom feature we added – galleries:
+I do a few things down there. 
 
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
 
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
 
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
 
-*See what we did there? Code and syntax highlighting is built-in too!*
+| **Quarter Head of Balayage or Highlights** <br> *$150* \| <sub><sup>45 minutes</sup></sub> |
+| **Half Head of Balayage or Highlights** <br> *$200* \| <sub><sup>60 minutes</sup></sub> |
+| **Full Head of Balayage or Highlights** <br> *$300* \| <sub><sup>75 minutes</sup></sub>|
+| **Single Process** <br> *$175* \| <sub><sup>30 minutes</sup></sub> |
+| **Gloss** <br> *$75* \| <sub><sup>30 minutes</sup></sub> <br> <br> Custom mixed translucent hair color meant to enhance natural tones, brighten blondes, or blend gray hair. Glosses can also simply be clear for shine.|
+| **Conditioning Treatment** <br> *$75* \| <sub><sup>30 minutes</sup></sub> |
+| **Magic Sleek Treatment** <br> *$400* \| <sub><sup>120 minutes</sup></sub> <br> <br> The most effective straightening system for damaged hair, Magic Sleek has been developed with natural ingredients found in the Amazon rainforest; these components are rich in Omega 3 and Omega 9 unsaturated fatty acids, which offer nutrition to the hair. Find more information [here](https://www.magicsleek.com/).|
+| **Haircut** <br> *$175* \| <sub><sup>60 minutes</sup></sub> |
+| **Bang Trim** <br> *Complementarity* \| <sub><sup>10 minutes</sup></sub> |
+| **Blow Dry** <br> *$85* \| <sub><sup>60 minutes</sup></sub> |
+| **Heat Styling without a Shampoo** <br> *$50* \| <sub><sup>30 minutes</sup></sub> |
+| **Updo** <br> *$175* \| <sub><sup>75 minutes</sup></sub> |
+| **Extensions and Custom Hairpieces** <br> *Consultation Required* |
+| **Complete Makeup** <br> *$150* \| <sub><sup>60 minutes</sup></sub> |
+| **On the Go Makeup** <br> *$75* \| <sub><sup>30 minutes</sup></sub> |
+| **Eyebrow Design & Tinting** <br> *$100* \| <sub><sup>45 minutes</sup></sub> <br> <br> After a brief consultation discussing where your brows are and where you would like them to be, an Austrian vegetable-based dye is color-customized for you and applied. Brows are tinted at the beginning of the service to darken the baby blonde hairs that hide inside and around the brow, thus giving Lauren a fuller shape to work with. This is followed by thoughtful trimming and an expertly restrained approach to shaping with a tweezer. The final step is a one on one tutorial on your ideal brow shape for your face and how to maintain the look at home. |
+| **Eyebrow Design** <br> *$75* \| <sub><sup>35 minutes</sup></sub> |
+| **Eyebrow Cleanup** <br> *$30* \| <sub><sup>10 minutes</sup></sub> <br> <br> Trimming and tweezing stray hairs.|
+| **Eyebrow tint** <br> *$30* \| <sub><sup>15 minutes</sup></sub> |
+| **Keratin Lash Lift Enhancement and Tint** <br> *$110* \| <sub><sup>45 minutes</sup></sub> <br> <br> Lauren’s lash lift technique boosts and lifts the natural eyelashes without having to rely on false lashes or harmful adhesives. This treatment works by first coaxing each individual hair in to place. This process is the most important part and is customized to each person’s face shape and their desired result. A special pigment infusion is then applied, followed by a dark tint. The result? Fluffy, natural looking lashes that curve upwards.  The lash lift is a relaxing, safe service and the result is about as low maintenance as it gets. The effect lasts for the natural life cycle of the eyelash, which is about 8 weeks.  | 
+| **Keratin Lash Lift without Tint** <br> *$85* \| <sub><sup>30 minutes</sup></sub> |
+| **Eyelash Tint** <br> *$30* \| <sub><sup>15 minutes</sup></sub> |
 
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
 
----
 
-### Image carousels
 
-Here's another gallery with only one column, which creates a carousel slide-show instead.
 
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
 
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/19536258?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ---
 
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work. Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+### Booking a service
+To book a service click [here](https://jastudiosnycbookings.as.me/schedule.php?calendarID=2755344). 

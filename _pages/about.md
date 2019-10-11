@@ -5,7 +5,7 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
-![](/images/about/About_Lauren.jpg)
+![](/images/about/about_top.png)
 
 Native to the central coast of California, Lauren Maloy is a professional hairstylist and makeup artist that prides herself on curating individualized solutions and services for her clientele. 
 
